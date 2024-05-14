@@ -1,0 +1,7 @@
+{
+    "type": "postgres",
+    "url": "postgresql://postgres:IbfmuXaUiLgFcHeGQlVRmMHiNDrKZqrx@roundhouse.proxy.rlwy.net:24654/railway",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true
+  }
+  
